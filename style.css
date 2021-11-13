@@ -1,0 +1,32 @@
+body{
+	background-color:navy;
+}
+
+h1{
+
+	color:red;
+	margin: 15vh;
+
+
+}
+
+p{
+	color:cornsilk;
+	font-size:large;
+	margin: 15vh;
+}
+
+
+button{
+	background-color: aquamarine;
+	width: 260px;
+	height:60px;
+	border-radius: 32px;
+	cursor:pointer;
+	margin:13vh;
+	
+}
+
+button:hover{
+	background-color:gold
+}
